@@ -1,0 +1,15 @@
+{
+  "name":"Example",
+  "name_tag":"example",
+  "url_profil":"<example>",
+  "url_avatar":"<example>/img/(profil.gif , profil.png)",
+  "description":"Example",
+  "location_group":"Jogyakarta",
+  "url_group":"https://example.com/",
+  "twitter":"@Example",
+  "users":"9 Users",
+  "rank":"Anak Pintar",
+  "createing_by":"Example Project API Spesana",
+  "createing_date":"26 Jan 2022",
+  "update_date":"29 Jan 2022"
+}
