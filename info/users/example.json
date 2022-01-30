@@ -1,0 +1,19 @@
+{
+  "name":"Example",
+  "name_tag":"@example",
+  "tag-prop":"Example Projects",
+  "url_profil":"<example>/",
+  "url_avatar_img":"<example>/img/(profil.gif ,profil.png)",
+  "description":"Example Description",
+  "email_to":"example@spesana.co.id",
+  "instagram":"Example",
+  "twitter":"Example",
+  "tiktok":"Example",
+  "youtube":"Example",
+  "telegram":"Example",
+  "url_one":"https://www.example.com/",
+  "url_two":"https://example.com/", 
+  "documents":"null",
+  "karya":"null",
+  "gallery":"null"
+}
